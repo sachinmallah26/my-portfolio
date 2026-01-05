@@ -6,7 +6,6 @@ const About = dynamic(() => import('./components/About'), { ssr: false });
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import MyEdge from './components/MyEdge';
-// import Modal from './components/Modal';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Education from './components/EducationSection';
